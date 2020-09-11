@@ -1,0 +1,22 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "ServiceBusConnectionString": "Endpoint=sb://m1neral.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=KofWOZlxmU+rM87RE9eLHP4OInLMtowtn2vNlKlGuKs=",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "c7cc6c53-6bb3-415f-a8f2-1b5ef703b838",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=m1neralstorage;AccountKey=SnQSConOTNj63tqIWw/Xyd2bWSMRdxSNM9oIQc5VNh8WrooeONlgBFgTMVgF8vdG0KGGTXAnBjCjg1HjGBjWIg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "FUNCTIONS_WORKER_PROCESS_COUNT": 1,
+    "NODE_TLS_REJECT_UNAUTHORIZED": 0,
+    "tenant": "m1dev",
+    "MONGODB_CONNECTION_STRING": "mongodb://m1mongo:bVVlvWlxdaNc0GOXYjBzX2qXvZIPBd6r4BWRcu4nJjR9N1bG2wfh9Cc6FnEObBAhWid9PLtUVkeybVIJ2A8gqg==@m1mongo.mongo.cosmos.azure.com:10255/m1dev?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@m1mongo@",
+    "MELISSA_REST_URL": null,
+    "tenantStorageAccount": "DefaultEndpointsProtocol=https;AccountName=m1neralstorage;AccountKey=SnQSConOTNj63tqIWw/Xyd2bWSMRdxSNM9oIQc5VNh8WrooeONlgBFgTMVgF8vdG0KGGTXAnBjCjg1HjGBjWIg==;EndpointSuffix=core.windows.net",
+    "OAUTH_APP_ID": "ecdc741a-6b2c-4158-93d3-b5bccc2d7e76",
+    "OAUTH_APP_PASSWORD": "AP_yKQTe50jZ..p4tkzlE81dMxXaDMvF_r"
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "*"
+  }
+}
+ 
